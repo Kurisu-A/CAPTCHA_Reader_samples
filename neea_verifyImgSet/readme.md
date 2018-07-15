@@ -8,4 +8,6 @@ www.neea.edu.cn 的验证码是预先生成好的，这里已经将全部的验�
 
 今天（20180715）看起来依旧适用
 
+![](neeaCAPTCHAImg.png)
+
 [baidupan](https://pan.baidu.com/s/14PkwB_dfD368FJ-78soORw)
