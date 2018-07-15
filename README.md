@@ -2,7 +2,7 @@
 
 > 这里是 https://github.com/Kuri-su/CAPTCHA_Reader 项目的训练数据集和测试数据集
 
-##数据集索引
+## 数据集索引
 
 **已标记 学习样本集**
 
